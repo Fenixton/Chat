@@ -1,0 +1,10 @@
+c:\users\fenix\documents\visual studio 2013\Projects\ChatLibrary\ChatLibrary\bin\Debug\ChatLibrary.dll
+c:\users\fenix\documents\visual studio 2013\Projects\ChatLibrary\ChatLibrary\bin\Debug\ChatLibrary.pdb
+c:\users\fenix\documents\visual studio 2013\Projects\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.dll
+c:\users\fenix\documents\visual studio 2013\Projects\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.pdb
+C:\Users\fenix\Documents\Visual Studio 2013\Projects\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatLibrary\ChatLibrary\bin\Debug\ChatLibrary.dll
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatLibrary\ChatLibrary\bin\Debug\ChatLibrary.pdb
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.dll
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatLibrary\ChatLibrary\obj\Debug\ChatLibrary.pdb

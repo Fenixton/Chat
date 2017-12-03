@@ -1,0 +1,15 @@
+c:\users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\ChatServer.pdb
+c:\users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\ChatLibrary.dll
+C:\Users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\ChatLibrary.pdb
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\ChatServer.dll
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\ChatServer.pdb
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\ChatLibrary.dll
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\bin\ChatLibrary.pdb
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.dll
+C:\Users\dirda_000\Documents\Visual Studio 2015\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\ChatServer.dll.config
+C:\Users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\bin\ChatServer.dll
+C:\Users\fenix\documents\visual studio 2013\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.dll
